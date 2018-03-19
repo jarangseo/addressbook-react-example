@@ -2,6 +2,9 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/../../../../11st/bitbucket/pui-react/package.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../11st/bitbucket/pui-react/src/apis/block/types/GridList_ImgText_Col5.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../11st/bitbucket/pui-react/src/apis/block/types/Tabs_RoundBtn_Scroll.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../../../../11st/bitbucket/pui-react/src/apis/block/types/index.js" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>
